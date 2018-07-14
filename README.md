@@ -30,11 +30,3 @@ For further information on conversion options, see the [Pandoc README] or man pa
 [Pandoc README]: http://johnmacfarlane.net/pandoc/README.html "Pandoc README"
 
 This work is licensed under [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
-
----
-
-Freedom of the Press Foundation
-
-[@freedomofpress](https://twitter.com/freedomofpress) | info@freedom.press
-
-GPG: 0x734F6E707434ECA6C007E1AE82BD6C9616DABB79
